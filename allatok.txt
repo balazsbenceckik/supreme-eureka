@@ -6,7 +6,5 @@ gepárd
 kutya
 malac
 vizimalac
-majom
-elefánt
-béka
 vizikutya
+óriás kisegér
