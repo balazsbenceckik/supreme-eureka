@@ -3,3 +3,10 @@ roka
 sün
 fóka
 gepárd
+kutya
+malac
+vizimalac
+majom
+elefánt
+béka
+vizikutya
